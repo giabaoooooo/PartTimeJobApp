@@ -13,4 +13,4 @@ export default class HelloWorldApp extends Component {
       </View>
     );
   }
- }
+}
